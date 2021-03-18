@@ -1,0 +1,2 @@
+RAM = 8bit*256
+Cache = 8bit * 8
